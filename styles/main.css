@@ -1,0 +1,29 @@
+body {
+    margin: 10 px;
+}
+
+header {
+    font-size: 20px;
+    font: serif;
+    margin: 20px 20px;
+}
+
+.basic-info {
+    display: flex-box;
+    list-style-type: none;
+    padding: 0px 10px;
+    justify-content: space-around;
+}
+.committees {
+    list-style-type: none;
+    padding: 0;
+}
+
+.legislation {
+    padding: 1em;
+    list-style-type: none;
+}
+
+details.legislation {
+    padding: 0px;
+}
